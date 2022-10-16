@@ -1,0 +1,11 @@
+<resources>
+  <string name="app_name">Dice Games</string>
+  <string name="wallet_info">Click the die to roll.\nYou earn 5 coins everytime you roll a six!</string>
+  <string name="zero">0</string>
+  <string name="coins">Coins :</string>
+  <string name="prev_roll">Previous Roll :</string>
+  <string name="single_sixes">Single Sixes :</string>
+  <string name="double_sixes">Double Sixes :</string>
+  <string name="total_rolls">Total Rolls :</string>
+  <string name="double_others">Double Others :</string>
+</resources>
